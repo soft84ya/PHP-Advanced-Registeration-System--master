@@ -1,0 +1,15 @@
+action = kaha
+method = kese 1. GET 2. POST
+
+$_* = Super Global Variables
+
+$_SERVER['PHP_SELF'];
+
+$anil['key'] = Associative Array
+
+We never store password in plain text
+We always store in encrypted form
+
+1. MD5   32
+2. SHA1  40
+3. SHA512  128
